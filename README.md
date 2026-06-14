@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kartikm0111/kartikm0111/main/Gemini_Generated_Image_jlh2c9jlh2c9jlh2.png" width="100%" />
+<img src="https://raw.githubusercontent.com/kartikm0111/kartikm0111/main/Gemini_Generated_Image_jih2c9jih2c9jih2.png" width="100%" />
 
 </div>
 
