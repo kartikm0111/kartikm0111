@@ -219,29 +219,110 @@ Worked across technical development and outreach initiatives while contributing 
 
 ---
 
+
 # Certifications
 
-## AWS
+<div align="center">
 
-![](https://img.shields.io/badge/AWS-Cloud%20Learning-FF9900?style=for-the-badge\&logo=amazonaws)
+<img src="https://img.shields.io/badge/Forage-Industry%20Job%20Simulations-6A11CB?style=for-the-badge"/>
 
-## Oracle
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Verified-8E2DE2?style=for-the-badge"/>
 
-![](https://img.shields.io/badge/Oracle-Learning%20Path-F80000?style=for-the-badge\&logo=oracle)
+<img src="https://img.shields.io/badge/Software%20Engineering-Certified-4A00E0?style=for-the-badge"/>
 
-## NPTEL
+<img src="https://img.shields.io/badge/Data%20Analytics-Professional-6A11CB?style=for-the-badge"/>
 
-![](https://img.shields.io/badge/NPTEL-Certified-blue?style=for-the-badge)
+</div>
 
-## Cisco
+<br>
 
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge\&logo=cisco)
+## Professional Certifications
 
-### Completed Certifications
+| Certification | Organization | Core Skills |
+|--------------|-------------|-------------|
+| Tata GenAI Powered Data Analytics Job Simulation | Tata Group × Forage | Generative AI, Data Analytics, AI Applications |
+| Walmart USA Advanced Software Engineering Job Simulation | Walmart Global Tech × Forage | Software Engineering, System Design, Development Practices |
+| Deloitte Australia Technology Job Simulation | Deloitte Australia × Forage | Python, Data Analysis, Data Modeling, Networking, Software Development |
+| AIML Virtual Internship Program | Industry Internship Program | Artificial Intelligence, Machine Learning, Model Development |
+| Basics of AIML Workshop | GeeksforGeeks | AI Fundamentals, Machine Learning Concepts |
+| Generative AI Certification | Deloitte Australia | Prompt Engineering, AI Workflows, Generative AI Applications |
 
-* Generative AI — Deloitte Australia Technology Job Simulation
-* AIML Virtual Internship Program
-* Basics of AIML Workshop (GeeksforGeeks)
+---
+
+## Certification Highlights
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### AI & ML
+
+Generative AI
+
+Machine Learning
+
+AI Applications
+
+Prompt Engineering
+
+</td>
+
+<td width="33%" align="center">
+
+### Software Engineering
+
+System Design
+
+Development Practices
+
+Problem Solving
+
+Technical Implementation
+
+</td>
+
+<td width="33%" align="center">
+
+### Data & Analytics
+
+Data Analysis
+
+Data Modeling
+
+Python
+
+Analytical Thinking
+
+</td>
+</tr>
+</table>
+
+---
+
+## Learning Roadmap
+
+```yaml
+Completed:
+  - Tata GenAI Powered Data Analytics Job Simulation
+  - Walmart Advanced Software Engineering Job Simulation
+  - Deloitte Technology Job Simulation
+  - AIML Virtual Internship Program
+  - Basics of AIML Workshop
+
+Currently_Focused_On:
+  - Generative AI
+  - Full Stack Development
+  - AWS Cloud Computing
+  - AI Product Engineering
+
+Next_Target_Certifications:
+  - AWS Cloud Practitioner
+  - Microsoft AI-900
+  - Oracle Java Foundations
+  - Google Cloud Generative AI
+```
+
+---
 
 ---
 
