@@ -101,84 +101,163 @@ Through academic learning and hands-on development, I have worked on projects in
 | AI Ethics & Fairness   | Intermediate | Fair allocation and responsible AI design   |
 
 ---
-
 # Featured Projects
 
 <details>
-<summary><b>AI Smart Allocation Engine</b></summary>
+<summary><b>🚀 SIH Smart Allocation Engine</b></summary>
 
 ### Overview
 
-An AI-powered applicant-to-role allocation platform that uses automated scoring mechanisms and weighted ranking algorithms to deliver efficient and fair assignments at scale.
+An AI-powered applicant-to-role allocation platform developed for Smart India Hackathon (SIH). The system leverages weighted scoring algorithms and automated decision-making logic to efficiently match candidates with opportunities while maintaining transparency, scalability, and fairness.
 
-| Metric      | Details                                     |
-| ----------- | ------------------------------------------- |
-| Stack       | React, Node.js, AWS, APIs                   |
-| Scale       | Large-scale applicant allocation            |
-| Performance | Automated processing pipeline               |
-| Security    | Secure API-based architecture               |
-| Impact      | Improved allocation efficiency and fairness |
-| Repository  | Add Repository Link                         |
+| Metric | Details |
+|---------|----------|
+| Stack | React, Node.js, AWS, REST APIs |
+| Scale | Large Applicant Datasets |
+| Performance | Automated Multi-Factor Allocation |
+| Security | Secure API Architecture |
+| Impact | Reduced Manual Allocation Effort |
+| Repository | [View Repository](https://github.com/kartikm0111/SIH-Smart-allotcation-engine) |
 
 #### Highlights
 
-* Intelligent candidate matching system
-* Weighted scoring architecture
-* Scalable backend processing
-* Fair allocation framework
-* Management dashboard for administrators
+- Intelligent candidate-role matching
+- Weighted scoring framework
+- Fair and transparent allocation methodology
+- Dashboard-driven management interface
+- Scalable backend processing pipeline
+- Designed for hackathon-scale deployments
+
+#### Engineering Focus
+
+- Artificial Intelligence
+- Algorithm Design
+- Full Stack Development
+- Cloud-Ready Architecture
 
 </details>
+
+---
 
 <details>
-<summary><b>Blockchain Platform for Agricultural Produce</b></summary>
+<summary><b>📋 Resource & Volunteer Tracker</b></summary>
 
 ### Overview
 
-A blockchain-enabled platform designed to improve transparency and trust across agricultural supply chains.
+A centralized volunteer and resource management platform designed to streamline event coordination, resource allocation, and operational tracking. Built to improve efficiency and transparency during large-scale activities and campaigns.
 
-| Metric      | Details                          |
-| ----------- | -------------------------------- |
-| Stack       | Blockchain, Web Technologies     |
-| Scale       | Multi-stakeholder ecosystem      |
-| Performance | Distributed transaction records  |
-| Security    | Immutable ledger architecture    |
-| Impact      | Increased trust and traceability |
-| Repository  | Add Repository Link              |
+| Metric | Details |
+|---------|----------|
+| Stack | Web Technologies, Database Systems |
+| Scale | Multi-Volunteer Operations |
+| Performance | Centralized Resource Tracking |
+| Security | Role-Based Data Management |
+| Impact | Improved Coordination Efficiency |
+| Repository | [View Repository](https://github.com/kartikm0111/Resource-and-Volunteer-Tracker) |
 
 #### Highlights
 
-* Transparent transaction records
-* Enhanced supply chain visibility
-* Decentralized architecture
-* Improved farmer and buyer trust
+- Volunteer registration and management
+- Resource allocation tracking
+- Centralized operational dashboard
+- Event coordination workflows
+- Activity monitoring and reporting
+- Efficient data management
+
+#### Engineering Focus
+
+- System Design
+- Workflow Automation
+- Data Management
+- Product Engineering
 
 </details>
+
+---
 
 <details>
-<summary><b>Python Chat Room Application</b></summary>
+<summary><b>💬 Python Chat Room</b></summary>
 
 ### Overview
 
-A real-time communication platform developed in Python enabling users to exchange messages through a lightweight networking architecture.
+A real-time multi-user communication application developed using Python socket programming. The platform enables seamless communication between connected clients through a lightweight client-server architecture.
 
-| Metric      | Details                             |
-| ----------- | ----------------------------------- |
-| Stack       | Python, Socket Programming          |
-| Scale       | Multi-user communication            |
-| Performance | Real-time message delivery          |
-| Security    | Session-based communication         |
-| Impact      | Practical networking implementation |
-| Repository  | Add Repository Link                 |
+| Metric | Details |
+|---------|----------|
+| Stack | Python, Socket Programming |
+| Scale | Multi-Client Communication |
+| Performance | Real-Time Message Delivery |
+| Security | Session-Based Connectivity |
+| Impact | Practical Networking Solution |
+| Repository | [View Repository](https://github.com/hrittik702/Chat-Room) |
 
 #### Highlights
 
-* Real-time communication
-* Multi-client architecture
-* Socket-based networking
-* Lightweight deployment
+- Multi-user messaging system
+- Real-time communication
+- Socket-based networking
+- Client-server architecture
+- Lightweight deployment
+- Efficient message broadcasting
+
+#### Engineering Focus
+
+- Computer Networks
+- Backend Development
+- Distributed Systems Fundamentals
+- Concurrent Communication
 
 </details>
+
+---
+
+<details>
+<summary><b>⛓️ Blockchain Platform for Agricultural Produce</b></summary>
+
+### Overview
+
+A blockchain-enabled solution aimed at improving transparency and trust across agricultural supply chains. The platform focuses on secure transaction management, traceability, and decentralized record keeping.
+
+| Metric | Details |
+|---------|----------|
+| Stack | Blockchain, Web Technologies |
+| Scale | Multi-Stakeholder Ecosystem |
+| Performance | Distributed Ledger Processing |
+| Security | Immutable Transaction Records |
+| Impact | Increased Supply Chain Transparency |
+| Repository | Private / Academic Project |
+
+#### Highlights
+
+- Blockchain-backed transaction history
+- Transparent supply chain records
+- Decentralized architecture
+- Tamper-resistant data storage
+- Enhanced stakeholder trust
+
+#### Engineering Focus
+
+- Blockchain Systems
+- Data Integrity
+- Decentralized Applications
+- Secure Digital Transactions
+
+</details>
+
+---
+
+## Project Impact Snapshot
+
+| Domain | Demonstrated Through |
+|---------|----------------------|
+| Artificial Intelligence | SIH Smart Allocation Engine |
+| Full Stack Development | Smart Allocation Engine, Resource & Volunteer Tracker |
+| System Design | Resource & Volunteer Tracker |
+| Cloud Integration | SIH Smart Allocation Engine |
+| Computer Networks | Python Chat Room |
+| Blockchain Technology | Agricultural Produce Platform |
+| Product Engineering | All Featured Projects |
+
 
 ---
 
