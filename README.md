@@ -1,6 +1,8 @@
-# <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,50:8E2DE2,100:4A00E0&text=Kartikeya%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+<img src="https://raw.githubusercontent.com/kartikm0111/kartikm0111/main/Gemini_Generated_Image_jlh2c9jlh2c9jlh2.png" width="100%" />
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=28\&pause=1000\&color=8E2DE2\&center=true\&vCenter=true\&width=900\&lines=Information+Technology+Student;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;AWS+Cloud+Enthusiast;Open+Source+Contributor;Building+Scalable+Digital+Solutions)](https://git.io/typing-svg)
 
