@@ -479,7 +479,7 @@ Next_Target_Certifications:
 
 ```yaml
 Learning:
-  - Advanced Machine Learning
+  - Advanced Data Structures
   - Cloud Architecture on AWS
   - System Design
   - Generative AI
