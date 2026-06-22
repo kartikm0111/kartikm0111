@@ -106,39 +106,39 @@ Through academic learning and hands-on development, I have worked on projects in
 # Featured Projects
 
 <details>
-<summary><b>🚀 SIH Smart Allocation Engine</b></summary>
+<summary><b>🚀 Smart Allocation Engine</b></summary>
 
 ### Overview
 
-An AI-powered applicant-to-role allocation platform developed for Smart India Hackathon (SIH). The system leverages weighted scoring algorithms and automated decision-making logic to efficiently match candidates with opportunities while maintaining transparency, scalability, and fairness.
+An intelligent allocation platform designed to automate applicant-to-opportunity matching using data-driven decision-making and weighted evaluation strategies. The system streamlines allocation workflows, improves fairness, and reduces manual intervention while maintaining scalability and transparency.
 
 | Metric | Details |
 |---------|----------|
-| Stack | React, Node.js, AWS, REST APIs |
-| Scale | Large Applicant Datasets |
-| Performance | Automated Multi-Factor Allocation |
-| Security | Secure API Architecture |
+| Stack | React, Node.js, JavaScript, REST APIs |
+| Scale | Multi-User Allocation System |
+| Performance | Automated Candidate Matching |
+| Security | Secure API-Based Architecture |
 | Impact | Reduced Manual Allocation Effort |
-| Repository | [View Repository](https://github.com/kartikm0111/SIH-Smart-allotcation-engine) |
+| Repository | [View Repository](https://github.com/kartikm0111/Smart-allotcation-engine-) |
 
 #### Highlights
 
-- Intelligent candidate-role matching
-- Weighted scoring framework
-- Fair and transparent allocation methodology
-- Dashboard-driven management interface
-- Scalable backend processing pipeline
-- Designed for hackathon-scale deployments
+- Intelligent applicant allocation system
+- Automated matching and ranking workflow
+- Data-driven decision engine
+- Transparent allocation process
+- Scalable architecture for growing datasets
+- User-friendly dashboard and management interface
 
 #### Engineering Focus
 
-- Artificial Intelligence
+- Artificial Intelligence Concepts
 - Algorithm Design
 - Full Stack Development
-- Cloud-Ready Architecture
+- Product Engineering
+- System Architecture
 
 </details>
-
 ---
 
 <details>
