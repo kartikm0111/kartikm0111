@@ -140,6 +140,40 @@ An intelligent allocation platform designed to automate applicant-to-opportunity
 
 </details>
 ---
+<details>
+<summary><b>🚑 Last Minute Life Saver</b></summary>
+
+### Overview
+
+A life-saving emergency assistance platform designed to connect individuals with critical resources during urgent situations. The system focuses on rapid response, resource accessibility, and efficient coordination to help users find immediate support when every second matters.
+
+| Metric | Details |
+|---------|----------|
+| Stack | Web Technologies, JavaScript, Database Systems |
+| Scale | Multi-User Emergency Support Platform |
+| Performance | Fast Resource Discovery & Coordination |
+| Security | Secure Data Handling |
+| Impact | Improved Emergency Resource Accessibility |
+| Repository | [View Repository](https://github.com/kartikm0111/Last-Minute-Life-Saver) |
+
+#### Highlights
+
+- Emergency resource discovery system
+- Real-time assistance coordination
+- User-friendly interface for rapid access
+- Resource availability tracking
+- Optimized response workflows
+- Community-focused problem-solving approach
+
+#### Engineering Focus
+
+- Full Stack Development
+- System Design
+- Social Impact Technology
+- Product Engineering
+- User Experience Design
+
+</details>
 
 <details>
 <summary><b>📋 Resource & Volunteer Tracker</b></summary>
@@ -252,10 +286,11 @@ A blockchain-enabled solution aimed at improving transparency and trust across a
 
 | Domain | Demonstrated Through |
 |---------|----------------------|
-| Artificial Intelligence | SIH Smart Allocation Engine |
-| Full Stack Development | Smart Allocation Engine, Resource & Volunteer Tracker |
-| System Design | Resource & Volunteer Tracker |
-| Cloud Integration | SIH Smart Allocation Engine |
+| Artificial Intelligence | Smart Allocation Engine |
+| Full Stack Development | Smart Allocation Engine, Last Minute Life Saver |
+| System Design | Smart Allocation Engine, Resource & Volunteer Tracker |
+| Social Impact Technology | Last Minute Life Saver |
+| Automation & Optimization | Smart Allocation Engine |
 | Computer Networks | Python Chat Room |
 | Blockchain Technology | Agricultural Produce Platform |
 | Product Engineering | All Featured Projects |
