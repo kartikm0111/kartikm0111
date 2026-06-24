@@ -154,7 +154,11 @@ A life-saving emergency assistance platform designed to connect individuals with
 | Performance | Fast Resource Discovery & Coordination |
 | Security | Secure Data Handling |
 | Impact | Improved Emergency Resource Accessibility |
-| Repository | [View Repository](https://github.com/kartikm0111/Last-Minute-Life-Saver) |
+### Links
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/Last-Minute-Life-Saver)
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-6A11CB?style=for-the-badge&logo=googlecloud&logoColor=white)](https://last-minute-life-saver-66486866208.asia-southeast1.run.app/)
 
 #### Highlights
 
