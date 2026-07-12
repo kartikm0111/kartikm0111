@@ -141,7 +141,7 @@ An intelligent allocation platform designed to automate applicant-to-opportunity
 </details>
 ---
 <details>
-<summary><b>🚑 Last Minute Life Saver</b></summary>
+<summary><b>🚑 CLUTCH:Last Minute Life Saver</b></summary>
 
 ### Overview
 
