@@ -139,7 +139,7 @@ An intelligent allocation platform designed to automate applicant-to-opportunity
 - System Architecture
 
 </details>
----
+
 <details>
 <summary><b>🚑 CLUTCH: Last Minute Life Saver</b></summary>
 
