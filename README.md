@@ -140,6 +140,8 @@ An intelligent allocation platform designed to automate applicant-to-opportunity
 
 </details>
 
+---
+
 <details>
 <summary><b>🚑 CLUTCH: Last Minute Life Saver</b></summary>
 
@@ -178,6 +180,8 @@ A life-saving emergency assistance platform designed to connect individuals with
 - User Experience Design
 
 </details>
+
+---
 
 <details>
 <summary><b>📋 Resource & Volunteer Tracker</b></summary>
