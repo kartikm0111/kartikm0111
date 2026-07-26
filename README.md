@@ -105,6 +105,44 @@ Through academic learning and hands-on development, I have worked on projects in
 ---
 # Featured Projects
 
+
+<details>
+<summary><b>💻 IBM July Challenge</b></summary>
+
+### Overview
+
+A solution developed as part of the IBM Skills Challenge, showcasing practical software engineering skills through modern web development, problem-solving, and real-world application design.
+
+| Metric | Details |
+|---------|----------|
+| Stack | React, JavaScript, Web Technologies |
+| Scale | Challenge Project |
+| Performance | Optimized Web Application |
+| Security | Best Development Practices |
+| Impact | Practical Industry Challenge Solution |
+| Repository | [View Repository](https://github.com/kartikm0111/IBMJulyChallenge) |
+| Live Demo | [Launch Application](https://ibmjulychallenge-cryptic-desk.onrender.com/) |
+
+#### Highlights
+
+- Industry challenge implementation
+- Modern responsive UI
+- Practical software engineering approach
+- Interactive user experience
+- Clean project architecture
+- Real-world development practices
+
+#### Engineering Focus
+
+- Full Stack Development
+- Problem Solving
+- Product Engineering
+- Industry-Oriented Development
+
+</details>
+
+---
+
 <details>
 <summary><b>🚀 Smart Allocation Engine</b></summary>
 
@@ -137,6 +175,43 @@ An intelligent allocation platform designed to automate applicant-to-opportunity
 - Full Stack Development
 - Product Engineering
 - System Architecture
+
+</details>
+
+---
+
+<details>
+<summary><b>📱 PostPulse</b></summary>
+
+### Overview
+
+A modern social media content management platform designed to simplify content creation, scheduling, and publishing workflows. The application focuses on improving user engagement through an intuitive interface and streamlined publishing experience.
+
+| Metric | Details |
+|---------|----------|
+| Stack | React, JavaScript, Web Technologies |
+| Scale | Multi-User Content Platform |
+| Performance | Optimized Content Management |
+| Security | Secure User Authentication |
+| Impact | Improved Social Media Workflow |
+| Repository | [View Repository](https://github.com/kartikm0111/PostPulse) |
+| Live Demo | [Launch Application](https://post-pulse-navy.vercel.app/) |
+
+#### Highlights
+
+- Create and manage social media posts
+- Modern responsive interface
+- Optimized content workflow
+- User-friendly dashboard
+- Clean and intuitive UX
+- Scalable frontend architecture
+
+#### Engineering Focus
+
+- React Development
+- Frontend Engineering
+- Product Design
+- Responsive UI/UX
 
 </details>
 
@@ -180,6 +255,44 @@ A life-saving emergency assistance platform designed to connect individuals with
 - User Experience Design
 
 </details>
+
+---
+
+<details>
+<summary><b>🎥 Chrome Based Screen Recorder</b></summary>
+
+### Overview
+
+A browser-based screen recording application that enables users to capture, preview, and manage screen recordings directly from Chrome using modern browser APIs.
+
+| Metric | Details |
+|---------|----------|
+| Stack | JavaScript, Chrome APIs, HTML, CSS |
+| Scale | Browser-Based Utility |
+| Performance | Lightweight Screen Recording |
+| Security | Browser Permission Management |
+| Impact | Enhanced Productivity |
+| Repository | [View Repository](https://github.com/kartikm0111/Chrome-based-screen-recorder) |
+| Live Demo | [Launch Application](https://screenforage.vercel.app/) |
+
+#### Highlights
+
+- Screen recording using browser APIs
+- Chrome integration
+- Fast and lightweight
+- Easy recording controls
+- Simple export workflow
+- Responsive interface
+
+#### Engineering Focus
+
+- JavaScript
+- Browser APIs
+- Frontend Development
+- Chrome Extension Concepts
+
+</details>
+
 
 ---
 
