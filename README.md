@@ -105,301 +105,92 @@ Through academic learning and hands-on development, I have worked on projects in
 ---
 # Featured Projects
 
+> Replace your existing Projects section with this content.
 
-<details>
-<summary><b>💻 IBM July Challenge</b></summary>
+## 🚀 Smart Allocation Engine
 
-### Overview
+-   **Repository:**
+    https://github.com/kartikm0111/Smart-allotcation-engine-
+-   **Overview:** AI-powered applicant allocation platform using
+    weighted matching and scalable workflows.
 
-A solution developed as part of the IBM Skills Challenge, showcasing practical software engineering skills through modern web development, problem-solving, and real-world application design.
+**Badges**
 
-| Metric | Details |
-|---------|----------|
-| Stack | React, JavaScript, Web Technologies |
-| Scale | Challenge Project |
-| Performance | Optimized Web Application |
-| Security | Best Development Practices |
-| Impact | Practical Industry Challenge Solution |
-| Repository | [View Repository](https://github.com/kartikm0111/IBMJulyChallenge) |
-| Live Demo | [Launch Application](https://ibmjulychallenge-cryptic-desk.onrender.com/) |
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/Smart-allotcation-engine-)
 
-#### Highlights
+------------------------------------------------------------------------
 
-- Industry challenge implementation
-- Modern responsive UI
-- Practical software engineering approach
-- Interactive user experience
-- Clean project architecture
-- Real-world development practices
+## 🚑 Last Minute Life Saver
 
-#### Engineering Focus
+-   **Repository:**
+    https://github.com/kartikm0111/Last-Minute-Life-Saver
+-   **Live Demo:**
+    https://last-minute-life-saver-66486866208.asia-southeast1.run.app/
 
-- Full Stack Development
-- Problem Solving
-- Product Engineering
-- Industry-Oriented Development
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/Last-Minute-Life-Saver)
 
-</details>
+[![Live
+Demo](https://img.shields.io/badge/Live-Demo-6A11CB?style=for-the-badge&logo=googlecloud&logoColor=white)](https://last-minute-life-saver-66486866208.asia-southeast1.run.app/)
 
----
+------------------------------------------------------------------------
 
-<details>
-<summary><b>🚀 Smart Allocation Engine</b></summary>
+## 📋 Resource & Volunteer Tracker
 
-### Overview
+-   **Repository:**
+    https://github.com/kartikm0111/Resource-and-Volunteer-Tracker
 
-An intelligent allocation platform designed to automate applicant-to-opportunity matching using data-driven decision-making and weighted evaluation strategies. The system streamlines allocation workflows, improves fairness, and reduces manual intervention while maintaining scalability and transparency.
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/Resource-and-Volunteer-Tracker)
 
-| Metric | Details |
-|---------|----------|
-| Stack | React, Node.js, JavaScript, REST APIs |
-| Scale | Multi-User Allocation System |
-| Performance | Automated Candidate Matching |
-| Security | Secure API-Based Architecture |
-| Impact | Reduced Manual Allocation Effort |
-| Repository | [View Repository](https://github.com/kartikm0111/Smart-allotcation-engine-) |
+------------------------------------------------------------------------
 
-#### Highlights
+## 📱 PostPulse
 
-- Intelligent applicant allocation system
-- Automated matching and ranking workflow
-- Data-driven decision engine
-- Transparent allocation process
-- Scalable architecture for growing datasets
-- User-friendly dashboard and management interface
+-   **Repository:** https://github.com/kartikm0111/PostPulse
+-   **Live Demo:** https://post-pulse-navy.vercel.app/
 
-#### Engineering Focus
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/PostPulse)
 
-- Artificial Intelligence Concepts
-- Algorithm Design
-- Full Stack Development
-- Product Engineering
-- System Architecture
+[![Live
+Demo](https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel)](https://post-pulse-navy.vercel.app/)
 
-</details>
+------------------------------------------------------------------------
 
----
+## 🎥 Chrome Based Screen Recorder
 
-<details>
-<summary><b>📱 PostPulse</b></summary>
+-   **Repository:**
+    https://github.com/kartikm0111/Chrome-based-screen-recorder
+-   **Live Demo:** https://screenforage.vercel.app/
 
-### Overview
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/Chrome-based-screen-recorder)
 
-A modern social media content management platform designed to simplify content creation, scheduling, and publishing workflows. The application focuses on improving user engagement through an intuitive interface and streamlined publishing experience.
+[![Live
+Demo](https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel)](https://screenforage.vercel.app/)
 
-| Metric | Details |
-|---------|----------|
-| Stack | React, JavaScript, Web Technologies |
-| Scale | Multi-User Content Platform |
-| Performance | Optimized Content Management |
-| Security | Secure User Authentication |
-| Impact | Improved Social Media Workflow |
-| Repository | [View Repository](https://github.com/kartikm0111/PostPulse) |
-| Live Demo | [Launch Application](https://post-pulse-navy.vercel.app/) |
+------------------------------------------------------------------------
 
-#### Highlights
+## 💻 IBM July Challenge
 
-- Create and manage social media posts
-- Modern responsive interface
-- Optimized content workflow
-- User-friendly dashboard
-- Clean and intuitive UX
-- Scalable frontend architecture
+-   **Repository:** https://github.com/kartikm0111/IBMJulyChallenge
+-   **Live Demo:** https://ibmjulychallenge-cryptic-desk.onrender.com/
 
-#### Engineering Focus
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/IBMJulyChallenge)
 
-- React Development
-- Frontend Engineering
-- Product Design
-- Responsive UI/UX
+[![Live
+Demo](https://img.shields.io/badge/Live-Demo-46E3B7?style=for-the-badge&logo=render)](https://ibmjulychallenge-cryptic-desk.onrender.com/)
 
-</details>
+------------------------------------------------------------------------
 
----
+## 💬 Python Chat Room
 
-<details>
-<summary><b>🚑 CLUTCH: Last Minute Life Saver</b></summary>
+-   **Repository:** https://github.com/hrittik702/Chat-Room
 
-### Overview
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/hrittik702/Chat-Room)
 
-A life-saving emergency assistance platform designed to connect individuals with critical resources during urgent situations. The system focuses on rapid response, resource accessibility, and efficient coordination to help users find immediate support when every second matters.
+------------------------------------------------------------------------
 
-| Metric | Details |
-|---------|----------|
-| Stack | Web Technologies, JavaScript, Database Systems |
-| Scale | Multi-User Emergency Support Platform |
-| Performance | Fast Resource Discovery & Coordination |
-| Security | Secure Data Handling |
-| Impact | Improved Emergency Resource Accessibility |
-### Links
+## ⛓️ Blockchain Platform for Agricultural Produce
 
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/Last-Minute-Life-Saver)
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-6A11CB?style=for-the-badge&logo=googlecloud&logoColor=white)](https://last-minute-life-saver-66486866208.asia-southeast1.run.app/)
-
-#### Highlights
-
-- Emergency resource discovery system
-- Real-time assistance coordination
-- User-friendly interface for rapid access
-- Resource availability tracking
-- Optimized response workflows
-- Community-focused problem-solving approach
-
-#### Engineering Focus
-
-- Full Stack Development
-- System Design
-- Social Impact Technology
-- Product Engineering
-- User Experience Design
-
-</details>
-
----
-
-<details>
-<summary><b>🎥 Chrome Based Screen Recorder</b></summary>
-
-### Overview
-
-A browser-based screen recording application that enables users to capture, preview, and manage screen recordings directly from Chrome using modern browser APIs.
-
-| Metric | Details |
-|---------|----------|
-| Stack | JavaScript, Chrome APIs, HTML, CSS |
-| Scale | Browser-Based Utility |
-| Performance | Lightweight Screen Recording |
-| Security | Browser Permission Management |
-| Impact | Enhanced Productivity |
-| Repository | [View Repository](https://github.com/kartikm0111/Chrome-based-screen-recorder) |
-| Live Demo | [Launch Application](https://screenforage.vercel.app/) |
-
-#### Highlights
-
-- Screen recording using browser APIs
-- Chrome integration
-- Fast and lightweight
-- Easy recording controls
-- Simple export workflow
-- Responsive interface
-
-#### Engineering Focus
-
-- JavaScript
-- Browser APIs
-- Frontend Development
-- Chrome Extension Concepts
-
-</details>
-
-
----
-
-<details>
-<summary><b>📋 Resource & Volunteer Tracker</b></summary>
-
-### Overview
-
-A centralized volunteer and resource management platform designed to streamline event coordination, resource allocation, and operational tracking. Built to improve efficiency and transparency during large-scale activities and campaigns.
-
-| Metric | Details |
-|---------|----------|
-| Stack | Web Technologies, Database Systems |
-| Scale | Multi-Volunteer Operations |
-| Performance | Centralized Resource Tracking |
-| Security | Role-Based Data Management |
-| Impact | Improved Coordination Efficiency |
-| Repository | [View Repository](https://github.com/kartikm0111/Resource-and-Volunteer-Tracker) |
-
-#### Highlights
-
-- Volunteer registration and management
-- Resource allocation tracking
-- Centralized operational dashboard
-- Event coordination workflows
-- Activity monitoring and reporting
-- Efficient data management
-
-#### Engineering Focus
-
-- System Design
-- Workflow Automation
-- Data Management
-- Product Engineering
-
-</details>
-
----
-
-<details>
-<summary><b>💬 Python Chat Room</b></summary>
-
-### Overview
-
-A real-time multi-user communication application developed using Python socket programming. The platform enables seamless communication between connected clients through a lightweight client-server architecture.
-
-| Metric | Details |
-|---------|----------|
-| Stack | Python, Socket Programming |
-| Scale | Multi-Client Communication |
-| Performance | Real-Time Message Delivery |
-| Security | Session-Based Connectivity |
-| Impact | Practical Networking Solution |
-| Repository | [View Repository](https://github.com/hrittik702/Chat-Room) |
-
-#### Highlights
-
-- Multi-user messaging system
-- Real-time communication
-- Socket-based networking
-- Client-server architecture
-- Lightweight deployment
-- Efficient message broadcasting
-
-#### Engineering Focus
-
-- Computer Networks
-- Backend Development
-- Distributed Systems Fundamentals
-- Concurrent Communication
-
-</details>
-
----
-
-<details>
-<summary><b>⛓️ Blockchain Platform for Agricultural Produce</b></summary>
-
-### Overview
-
-A blockchain-enabled solution aimed at improving transparency and trust across agricultural supply chains. The platform focuses on secure transaction management, traceability, and decentralized record keeping.
-
-| Metric | Details |
-|---------|----------|
-| Stack | Blockchain, Web Technologies |
-| Scale | Multi-Stakeholder Ecosystem |
-| Performance | Distributed Ledger Processing |
-| Security | Immutable Transaction Records |
-| Impact | Increased Supply Chain Transparency |
-| Repository | Private / Academic Project |
-
-#### Highlights
-
-- Blockchain-backed transaction history
-- Transparent supply chain records
-- Decentralized architecture
-- Tamper-resistant data storage
-- Enhanced stakeholder trust
-
-#### Engineering Focus
-
-- Blockchain Systems
-- Data Integrity
-- Decentralized Applications
-- Secure Digital Transactions
-
-</details>
+-   Academic / Private Project
 
 ---
 
