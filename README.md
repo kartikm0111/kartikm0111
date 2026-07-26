@@ -105,92 +105,225 @@ Through academic learning and hands-on development, I have worked on projects in
 ---
 # Featured Projects
 
-> Replace your existing Projects section with this content.
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}🚀 Smart Allocation Engine`</b>`{=html}
+```{=html}
+</summary>
+```
+### Overview
 
-## 🚀 Smart Allocation Engine
+An AI-powered allocation platform that automates
+applicant-to-opportunity matching using weighted evaluation and
+intelligent decision-making to improve fairness, scalability, and
+transparency.
 
--   **Repository:**
-    https://github.com/kartikm0111/Smart-allotcation-engine-
--   **Overview:** AI-powered applicant allocation platform using
-    weighted matching and scalable workflows.
-
-**Badges**
+### Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/Smart-allotcation-engine-)
 
+```{=html}
+</details>
+```
+
 ------------------------------------------------------------------------
 
-## 🚑 Last Minute Life Saver
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}🚑 Last Minute Life Saver`</b>`{=html}
+```{=html}
+</summary>
+```
+### Overview
 
--   **Repository:**
-    https://github.com/kartikm0111/Last-Minute-Life-Saver
--   **Live Demo:**
-    https://last-minute-life-saver-66486866208.asia-southeast1.run.app/
+A life-saving emergency assistance platform that helps users quickly
+discover critical resources and coordinate support during emergencies
+through a fast, user-friendly interface.
+
+### Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/Last-Minute-Life-Saver)
 
 [![Live
-Demo](https://img.shields.io/badge/Live-Demo-6A11CB?style=for-the-badge&logo=googlecloud&logoColor=white)](https://last-minute-life-saver-66486866208.asia-southeast1.run.app/)
+Demo](https://img.shields.io/badge/Live-Demo-6A11CB?style=for-the-badge&logo=vercel&logoColor=white)](https://last-minute-life-saver-66486866208.asia-southeast1.run.app/)
+
+```{=html}
+</details>
+```
 
 ------------------------------------------------------------------------
 
-## 📋 Resource & Volunteer Tracker
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}📋 Resource & Volunteer Tracker`</b>`{=html}
+```{=html}
+</summary>
+```
+### Overview
 
--   **Repository:**
-    https://github.com/kartikm0111/Resource-and-Volunteer-Tracker
+A centralized platform for managing volunteers, allocating resources,
+and tracking activities to improve coordination and operational
+efficiency.
+
+### Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/Resource-and-Volunteer-Tracker)
 
+```{=html}
+</details>
+```
+
 ------------------------------------------------------------------------
 
-## 📱 PostPulse
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}📱 PostPulse`</b>`{=html}
+```{=html}
+</summary>
+```
+### Overview
 
--   **Repository:** https://github.com/kartikm0111/PostPulse
--   **Live Demo:** https://post-pulse-navy.vercel.app/
+A modern social media content management application for creating,
+organizing, and publishing content with a clean and responsive
+interface.
+
+### Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/PostPulse)
 
 [![Live
-Demo](https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel)](https://post-pulse-navy.vercel.app/)
+Demo](https://img.shields.io/badge/Live-Demo-6A11CB?style=for-the-badge&logo=vercel&logoColor=white)](https://post-pulse-navy.vercel.app/)
+
+```{=html}
+</details>
+```
 
 ------------------------------------------------------------------------
 
-## 🎥 Chrome Based Screen Recorder
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}🎥 Chrome Based Screen Recorder`</b>`{=html}
+```{=html}
+</summary>
+```
+### Overview
 
--   **Repository:**
-    https://github.com/kartikm0111/Chrome-based-screen-recorder
--   **Live Demo:** https://screenforage.vercel.app/
+A lightweight browser-based screen recording application built using
+modern Chrome APIs for seamless recording and sharing.
+
+### Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/Chrome-based-screen-recorder)
 
 [![Live
-Demo](https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel)](https://screenforage.vercel.app/)
+Demo](https://img.shields.io/badge/Live-Demo-6A11CB?style=for-the-badge&logo=vercel&logoColor=white)](https://screenforage.vercel.app/)
+
+```{=html}
+</details>
+```
 
 ------------------------------------------------------------------------
 
-## 💻 IBM July Challenge
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}💻 IBM July Challenge`</b>`{=html}
+```{=html}
+</summary>
+```
+### Overview
 
--   **Repository:** https://github.com/kartikm0111/IBMJulyChallenge
--   **Live Demo:** https://ibmjulychallenge-cryptic-desk.onrender.com/
+A solution developed during the IBM Skills Challenge showcasing
+practical software engineering and modern web development practices.
+
+### Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/IBMJulyChallenge)
 
 [![Live
-Demo](https://img.shields.io/badge/Live-Demo-46E3B7?style=for-the-badge&logo=render)](https://ibmjulychallenge-cryptic-desk.onrender.com/)
+Demo](https://img.shields.io/badge/Live-Demo-6A11CB?style=for-the-badge&logo=render&logoColor=white)](https://ibmjulychallenge-cryptic-desk.onrender.com/)
+
+```{=html}
+</details>
+```
 
 ------------------------------------------------------------------------
 
-## 💬 Python Chat Room
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}💬 Python Chat Room`</b>`{=html}
+```{=html}
+</summary>
+```
+### Overview
 
--   **Repository:** https://github.com/hrittik702/Chat-Room
+A real-time multi-user chat application built with Python socket
+programming using a client-server architecture.
+
+### Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/hrittik702/Chat-Room)
 
+```{=html}
+</details>
+```
+
 ------------------------------------------------------------------------
 
-## ⛓️ Blockchain Platform for Agricultural Produce
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}⛓️ Blockchain Platform for Agricultural Produce`</b>`{=html}
+```{=html}
+</summary>
+```
+### Overview
 
--   Academic / Private Project
+A blockchain-based platform that improves transparency, traceability,
+and trust across the agricultural supply chain using immutable
+transaction records.
+
+### Links
+
+![Academic
+Project](https://img.shields.io/badge/Academic-Private%20Project-6A11CB?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+
+```{=html}
+</details>
+```
+
+------------------------------------------------------------------------
+
 
 ---
 
