@@ -103,224 +103,496 @@ Through academic learning and hands-on development, I have worked on projects in
 | AI Ethics & Fairness   | Intermediate | Fair allocation and responsible AI design   |
 
 ---
-# Featured Projects
+# 🚀 Featured Projects
 
-```{=html}
 <details>
-```
-```{=html}
 <summary>
-```
-`<b>`{=html}🚀 Smart Allocation Engine`</b>`{=html}
-```{=html}
+
+## 🚀 Smart Allocation Engine
+**AI • Full Stack • Product Engineering**
+
 </summary>
-```
-### Overview
 
-An AI-powered allocation platform that automates
-applicant-to-opportunity matching using weighted evaluation and
-intelligent decision-making to improve fairness, scalability, and
-transparency.
+<br>
 
-### Links
+### 📖 Overview
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/Smart-allotcation-engine-)
+An intelligent allocation platform that automates applicant-to-opportunity matching using AI-driven decision-making and weighted evaluation strategies. The system streamlines allocation workflows, improves transparency, reduces manual effort, and delivers scalable candidate recommendations.
 
-```{=html}
+---
+
+### ✨ Key Features
+
+- 🤖 AI-powered candidate matching
+- 📊 Intelligent ranking algorithm
+- ⚡ Automated allocation workflow
+- 📈 Scalable recommendation engine
+- 🔐 Secure API-based architecture
+- 📱 Responsive dashboard
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,express,tailwind,git,github,vscode" />
+</p>
+
+---
+
+### 📌 Engineering Focus
+
+- Artificial Intelligence
+- Full Stack Development
+- Product Engineering
+- System Design
+- REST APIs
+- Database Design
+
+---
+
+### 🌐 Project Links
+
+<p align="left">
+
+<a href="https://github.com/kartikm0111/Smart-allotcation-engine-">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
 </details>
-```
+
+---
+
+<details>
+<summary>
+
+## 🚑 Last Minute Life Saver
+**Healthcare • Social Impact • Full Stack**
+
+</summary>
+
+<br>
+
+### 📖 Overview
+
+A life-saving emergency assistance platform designed to help users quickly locate essential resources during emergencies. The platform emphasizes accessibility, rapid response, and real-time coordination to improve emergency support when every second counts.
+
+---
+
+### ✨ Key Features
+
+- 🚑 Emergency resource locator
+- 📍 Fast resource discovery
+- 👥 Community assistance
+- ⚡ Real-time coordination
+- 📱 Responsive interface
+- 🔒 Secure data handling
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,firebase,tailwind,git,github,vscode" />
+</p>
+
+---
+
+### 📌 Engineering Focus
+
+- Social Impact Technology
+- Full Stack Development
+- Product Engineering
+- User Experience
+- System Design
+
+---
+
+### 🌐 Project Links
+
+<p align="left">
+
+<a href="https://github.com/kartikm0111/Last-Minute-Life-Saver">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://last-minute-life-saver-66486866208.asia-southeast1.run.app/">
+<img src="https://img.shields.io/badge/Live-Demo-6A11CB?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</a>
+
+</p>
+
+</details>
+
+---
 
 ------------------------------------------------------------------------
-
-```{=html}
 <details>
-```
-```{=html}
 <summary>
-```
-`<b>`{=html}🚑 Last Minute Life Saver`</b>`{=html}
-```{=html}
+
+## 📋 Resource & Volunteer Tracker
+**Community • Management System • Full Stack**
+
 </summary>
-```
-### Overview
 
-A life-saving emergency assistance platform that helps users quickly
-discover critical resources and coordinate support during emergencies
-through a fast, user-friendly interface.
+<br>
 
-### Links
+### 📖 Overview
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/Last-Minute-Life-Saver)
+A centralized platform built to streamline volunteer coordination and resource management for NGOs, social initiatives, and community-driven organizations. The application enables efficient volunteer onboarding, resource allocation, event tracking, and administrative management through a unified dashboard.
 
-[![Live
-Demo](https://img.shields.io/badge/Live-Demo-6A11CB?style=for-the-badge&logo=vercel&logoColor=white)](https://last-minute-life-saver-66486866208.asia-southeast1.run.app/)
+---
 
-```{=html}
+### ✨ Key Features
+
+- 👥 Volunteer Management
+- 📦 Resource Allocation & Tracking
+- 📅 Event & Activity Management
+- 📊 Administrative Dashboard
+- 🔍 Search & Filtering
+- 📱 Responsive User Interface
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,tailwind,git,github,vscode" />
+</p>
+
+---
+
+### 📌 Engineering Focus
+
+- Full Stack Development
+- System Design
+- Database Management
+- Product Engineering
+- Responsive Web Applications
+
+---
+
+### 🌐 Project Links
+
+<p align="left">
+
+<a href="https://github.com/kartikm0111/Resource-and-Volunteer-Tracker">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
 </details>
-```
+
+---
+
+<details>
+<summary>
+
+## 📱 PostPulse
+**Social Media • Content Platform • Full Stack**
+
+</summary>
+
+<br>
+
+### 📖 Overview
+
+PostPulse is a modern social media content management platform designed to simplify content creation, organization, and publishing. It offers an intuitive interface for managing posts while focusing on performance, responsiveness, and an enhanced user experience.
+
+---
+
+### ✨ Key Features
+
+- 📝 Create & Manage Posts
+- 🎨 Modern Responsive Interface
+- ⚡ Fast User Experience
+- 📂 Organized Content Management
+- 🌙 Clean Dashboard
+- 📱 Mobile-Friendly Design
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,tailwind,vercel,git,github,vscode" />
+</p>
+
+---
+
+### 📌 Engineering Focus
+
+- React Development
+- Frontend Engineering
+- UI / UX Design
+- Full Stack Development
+- Product Engineering
+
+---
+
+### 🌐 Project Links
+
+<p align="left">
+
+<a href="https://github.com/kartikm0111/PostPulse">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://post-pulse-navy.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+</details>
+
+---
 
 ------------------------------------------------------------------------
-
-```{=html}
 <details>
-```
-```{=html}
 <summary>
-```
-`<b>`{=html}📋 Resource & Volunteer Tracker`</b>`{=html}
-```{=html}
+
+## 🎥 ScreenForage
+**Browser Utility • Productivity • Chrome APIs**
+
 </summary>
-```
-### Overview
 
-A centralized platform for managing volunteers, allocating resources,
-and tracking activities to improve coordination and operational
-efficiency.
+<br>
 
-### Links
+### 📖 Overview
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/Resource-and-Volunteer-Tracker)
+ScreenForage is a lightweight browser-based screen recording application that enables users to capture, preview, and download high-quality screen recordings directly from Chrome. Built using modern browser APIs, the application focuses on simplicity, performance, and an intuitive user experience.
 
-```{=html}
+---
+
+### ✨ Key Features
+
+- 🎥 One-Click Screen Recording
+- 🖥️ Full Screen & Window Capture
+- ⚡ Lightweight & Fast Performance
+- 💾 Easy Download Support
+- 🌐 Browser-Based Solution
+- 📱 Clean & Responsive Interface
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=javascript,html,css,git,github,vscode" />
+</p>
+
+---
+
+### 📌 Engineering Focus
+
+- JavaScript
+- Browser APIs
+- Frontend Development
+- Productivity Tools
+- User Experience
+
+---
+
+### 🌐 Project Links
+
+<p align="left">
+
+<a href="https://github.com/kartikm0111/Chrome-based-screen-recorder">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://screenforage.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
 </details>
-```
+
+---
+
+<details>
+<summary>
+
+## 💻 IBM July Challenge
+**Industry Project • Full Stack • Cloud**
+
+</summary>
+
+<br>
+
+### 📖 Overview
+
+A real-world solution developed during the IBM Skills Challenge, demonstrating modern software engineering principles, scalable web application development, and practical problem-solving. The project showcases clean architecture, responsive design, and industry-oriented development practices.
+
+---
+
+### ✨ Key Features
+
+- 💼 Industry Challenge Solution
+- ⚡ Modern Responsive Interface
+- ☁️ Cloud Deployment
+- 📊 Interactive User Experience
+- 🏗️ Modular Architecture
+- 🚀 Production-Ready Design
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,tailwind,git,github,vscode" />
+</p>
+
+---
+
+### 📌 Engineering Focus
+
+- Full Stack Development
+- Product Engineering
+- Cloud Deployment
+- Software Architecture
+- UI / UX Design
+
+---
+
+### 🌐 Project Links
+
+<p align="left">
+
+<a href="https://github.com/kartikm0111/IBMJulyChallenge">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://ibmjulychallenge-cryptic-desk.onrender.com/">
+<img src="https://img.shields.io/badge/Live-Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+
+</p>
+
+</details>
+
+---
 
 ------------------------------------------------------------------------
-
-```{=html}
 <details>
-```
-```{=html}
 <summary>
-```
-`<b>`{=html}📱 PostPulse`</b>`{=html}
-```{=html}
+
+## 💬 Python Chat Room
+**Networking • Socket Programming • Real-Time Communication**
+
 </summary>
-```
-### Overview
 
-A modern social media content management application for creating,
-organizing, and publishing content with a clean and responsive
-interface.
+<br>
 
-### Links
+### 📖 Overview
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/PostPulse)
+A real-time multi-user chat application developed using Python socket programming and a client-server architecture. The project demonstrates core networking concepts, concurrent client handling, and reliable real-time communication between multiple users over TCP sockets.
 
-[![Live
-Demo](https://img.shields.io/badge/Live-Demo-6A11CB?style=for-the-badge&logo=vercel&logoColor=white)](https://post-pulse-navy.vercel.app/)
+---
 
-```{=html}
+### ✨ Key Features
+
+- 💬 Real-Time Messaging
+- 🌐 Multi-Client Communication
+- 🔌 TCP Socket Programming
+- ⚡ Lightweight Client-Server Architecture
+- 🔄 Concurrent User Connections
+- 🖥️ Terminal-Based Interface
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
+
+---
+
+### 📌 Engineering Focus
+
+- Computer Networks
+- Socket Programming
+- Distributed Systems
+- Backend Development
+- System Programming
+
+---
+
+### 🌐 Project Links
+
+<p align="left">
+
+<a href="https://github.com/hrittik702/Chat-Room">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
 </details>
-```
 
-------------------------------------------------------------------------
+---
 
-```{=html}
 <details>
-```
-```{=html}
 <summary>
-```
-`<b>`{=html}🎥 Chrome Based Screen Recorder`</b>`{=html}
-```{=html}
+
+## ⛓️ Blockchain Platform for Agricultural Produce
+**Blockchain • Supply Chain • Transparency**
+
 </summary>
-```
-### Overview
 
-A lightweight browser-based screen recording application built using
-modern Chrome APIs for seamless recording and sharing.
+<br>
 
-### Links
+### 📖 Overview
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/Chrome-based-screen-recorder)
+A blockchain-powered platform designed to improve transparency, traceability, and trust throughout the agricultural supply chain. The solution enables farmers, distributors, retailers, and consumers to securely track produce from farm to market using immutable blockchain records, ensuring authenticity while reducing fraud and data manipulation.
 
-[![Live
-Demo](https://img.shields.io/badge/Live-Demo-6A11CB?style=for-the-badge&logo=vercel&logoColor=white)](https://screenforage.vercel.app/)
+---
 
-```{=html}
+### ✨ Key Features
+
+- ⛓️ Blockchain-Based Traceability
+- 🌾 Farm-to-Consumer Tracking
+- 🔐 Immutable Transaction Records
+- 📦 Supply Chain Transparency
+- 👨‍🌾 Multi-Stakeholder Platform
+- 📊 Secure Product Verification
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=solidity,react,nodejs,mongodb,js,git,github,vscode" />
+</p>
+
+---
+
+### 📌 Engineering Focus
+
+- Blockchain Development
+- Supply Chain Systems
+- Smart Contracts
+- Decentralized Applications
+- Product Engineering
+
+---
+
+### 🌐 Project Links
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Academic-Project-6A11CB?style=for-the-badge&logo=blockchaindotcom&logoColor=white"/>
+
+</p>
+
 </details>
-```
 
-------------------------------------------------------------------------
-
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}💻 IBM July Challenge`</b>`{=html}
-```{=html}
-</summary>
-```
-### Overview
-
-A solution developed during the IBM Skills Challenge showcasing
-practical software engineering and modern web development practices.
-
-### Links
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kartikm0111/IBMJulyChallenge)
-
-[![Live
-Demo](https://img.shields.io/badge/Live-Demo-6A11CB?style=for-the-badge&logo=render&logoColor=white)](https://ibmjulychallenge-cryptic-desk.onrender.com/)
-
-```{=html}
-</details>
-```
-
-------------------------------------------------------------------------
-
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}💬 Python Chat Room`</b>`{=html}
-```{=html}
-</summary>
-```
-### Overview
-
-A real-time multi-user chat application built with Python socket
-programming using a client-server architecture.
-
-### Links
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/hrittik702/Chat-Room)
-
-```{=html}
-</details>
-```
-
-------------------------------------------------------------------------
-
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}⛓️ Blockchain Platform for Agricultural Produce`</b>`{=html}
-```{=html}
-</summary>
-```
-### Overview
-
-A blockchain-based platform that improves transparency, traceability,
-and trust across the agricultural supply chain using immutable
-transaction records.
-
-### Links
-
-![Academic
-Project](https://img.shields.io/badge/Academic-Private%20Project-6A11CB?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
-
-```{=html}
-</details>
-```
 
 ------------------------------------------------------------------------
 
