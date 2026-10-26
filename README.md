@@ -968,17 +968,3 @@ https://portfolio-tau-one-78.vercel.app/
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A11CB,50:8E2DE2,100:4A00E0"/>
 
 
-## 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kartikm0111&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikm0111&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=kartikm0111&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
