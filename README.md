@@ -108,6 +108,54 @@ Through academic learning and hands-on development, I have worked on projects in
 <details>
 <summary>
 
+## 🚨 RESQ-AI
+
+**AI-Powered Disaster Management & Emergency Response**
+
+</summary>
+
+<br>
+
+### 📖 Overview
+
+RESQ-AI is an AI-powered platform focused on improving disaster management and emergency response through intelligent analysis, situational awareness, and coordinated rescue operations. It explores how artificial intelligence and modern web technologies can support emergency planning, disaster monitoring, and faster decision-making during critical situations.
+
+The project aims to bridge the gap between disaster information and actionable insights, helping make emergency response more organized, efficient, and technology-driven.
+
+---
+
+### ✨ Key Features
+
+* 🤖 **AI-Powered Intelligence** — Apply AI-driven analysis to support disaster response and decision-making.
+* 🚨 **Emergency Response Support** — Focus on improving how emergency situations are monitored and managed.
+* 🗺️ **Situational Awareness** — Support better understanding of disaster scenarios and affected areas.
+* 📊 **Data-Driven Insights** — Present relevant information to support informed decisions.
+* ⚡ **Smart Coordination** — Explore technology-assisted coordination for more effective disaster response.
+* 🌐 **Modern Web Experience** — Provide an accessible interface for interacting with the platform.
+
+---
+
+### 🛠️ Technology Stack
+
+<p align="left">
+<img src="https://sk
+
+### 🔗 Explore RESQ-AI
+
+<p align="left">
+<a href="https://github.com/kartikm0111/RESQ-AI-">
+<img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+</a>
+<a href="https://sih-2026-five-sable.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-Launch%20RESQ--AI-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
+</p>
+
+</details>
+
+<details>
+<summary>
+
 ## 🚀 Smart Allocation Engine
 **AI • Full Stack • Product Engineering**
 
