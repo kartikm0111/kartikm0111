@@ -43,13 +43,21 @@
 
 ---
 
-# About Me
+## 👋 About Me
 
-I am **Kartikeya Mishra**, an Information Technology undergraduate at **Dr. A.P.J. Abdul Kalam Technical University (AKTU)** with a strong passion for building intelligent, scalable, and impactful software solutions.
+Hey! I'm **Kartikeya Mishra**, an Information Technology undergraduate passionate about building practical software solutions at the intersection of **Artificial Intelligence, full-stack development, and intelligent automation**.
 
-My engineering interests span across **Artificial Intelligence**, **Machine Learning**, **Cloud Computing**, **Full Stack Development**, and **Product Engineering**. I enjoy transforming complex business problems into efficient software systems that combine robust architecture, intuitive user experiences, and data-driven intelligence.
+🎓 Pursuing B.Tech in Information Technology at Dr. A.P.J. Abdul Kalam Technical University.
 
-Through academic learning and hands-on development, I have worked on projects involving intelligent allocation systems, cloud-enabled applications, and modern web technologies. I continuously explore emerging technologies while maintaining a strong foundation in software engineering principles.
+🤖 Exploring AI engineering, computer vision, Generative AI, and automation.
+
+💻 Building projects ranging from autonomous search-and-rescue systems and AI-powered social media tools to intelligent internship allocation engines.
+
+🚀 Gaining industry exposure through software development, frontend AI engineering, and technology outreach internships.
+
+🧩 Interested in solving real-world problems through thoughtful engineering, experimentation, and continuous learning.
+
+🎯 **Current Goal:** Grow as a software engineer by building impactful products, strengthening my technical foundations, and contributing to meaningful projects.
 
 ### Open To
 
@@ -62,31 +70,45 @@ Through academic learning and hands-on development, I have worked on projects in
 
 ---
 
-# Tech Stack
+## 🧠 Technical Arsenal
 
-## Languages
+### 💻 Programming Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js" alt="C++, Java, Python and JavaScript" />
 </p>
 
-## Frontend
+### 🌐 Web Development & Frameworks
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi" alt="React, Next.js, Node.js, Express and FastAPI" />
 </p>
 
-## Backend & Databases
+### 🗄️ Databases, Cloud & Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,aws,git,github,figma,docker" alt="MongoDB, AWS, Git, GitHub, Figma and Docker" />
 </p>
 
-## Cloud, DevOps & Tooling
+### 🤖 AI, Computer Vision & Networking
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,figma,postman" />
-</p>
+* Artificial Intelligence and Generative AI
+* YOLOv8 and OpenCV
+* Google Gemini AI integration
+* REST APIs and Meta Graph API
+* TCP/IP sockets and real-time communication
+* Mapbox GL and geospatial interfaces
+* DroneKit SITL and drone simulation
+* APScheduler and automated task scheduling
+
+### 🏗️ Engineering Concepts
+
+* Object-Oriented Programming (OOP)
+* Full-Stack Application Development
+* AI Integration and Automation
+* Real-Time Systems
+* API Integration
+* Algorithmic Matching and Scoring
 
 ---
 
@@ -663,24 +685,31 @@ A blockchain-powered platform designed to improve transparency, traceability, an
 
 ---
 
-# Experience
+## 💼 Professional Experience
 
-## Tech & Outreach Associate
+### 🚀 Software Trainee Intern — PropFusion
 
-### AI Agent Bros
+**July 2026 – August 2026 · Prayagraj, India / Remote**
 
-**September 2025 – November 2025**
+* Applied software development and design principles to practical engineering tasks.
+* Explored applications of Artificial Intelligence in software development.
+* Strengthened problem-solving and technical implementation skills through hands-on work.
 
-Worked across technical development and outreach initiatives while contributing to innovation-focused projects involving emerging AI technologies.
+### 🤖 Front-end AI Engineering Intern — FlyRank AI
 
-#### Scope of Work
+**June 2026 – August 2026 · Prayagraj, India / Remote**
 
-* Assisted in technical project execution
-* Collaborated on outreach and engagement activities
-* Contributed to AI-driven solution discussions
-* Supported technology adoption initiatives
+* Worked at the intersection of AI engineering and frontend development.
+* Focused on developing user-facing interfaces for AI-powered applications.
+* Gained practical exposure to integrating AI capabilities into modern web experiences.
 
-**Skills:** AI • Communication • Product Thinking • Collaboration • Outreach
+### 🌐 Tech & Outreach Intern — AI Agent Bros
+
+**September 2025 – November 2025 · Remote**
+
+* Contributed to AI-focused initiatives and graphic design activities.
+* Supported technology outreach and communication initiatives.
+* Explored how AI solutions can be presented through effective visual communication.
 
 ---
 
@@ -717,16 +746,19 @@ Worked across technical development and outreach initiatives while contributing 
 
 <br>
 
-## Professional Certifications
+## 🏆 Certifications & Learning
 
-| Certification | Organization | Core Skills |
-|--------------|-------------|-------------|
-| Tata GenAI Powered Data Analytics Job Simulation | Tata Group × Forage | Generative AI, Data Analytics, AI Applications |
-| Walmart USA Advanced Software Engineering Job Simulation | Walmart Global Tech × Forage | Software Engineering, System Design, Development Practices |
-| Deloitte Australia Technology Job Simulation | Deloitte Australia × Forage | Python, Data Analysis, Data Modeling, Networking, Software Development |
-| AIML Virtual Internship Program | Industry Internship Program | Artificial Intelligence, Machine Learning, Model Development |
-| Basics of AIML Workshop | GeeksforGeeks | AI Fundamentals, Machine Learning Concepts |
-| Generative AI Certification | Deloitte Australia | Prompt Engineering, AI Workflows, Generative AI Applications |
+| Certification / Program         | Organization                |
+| ------------------------------- | --------------------------- |
+| AI Skills Fest 2026             | Microsoft                   |
+| GenAI-Powered Data Analytics    | Tata / Forage               |
+| Advanced Software Engineering   | Walmart USA / Forage        |
+| Basics of AIML                  | GeeksforGeeks / IIT Roorkee |
+| Technology Job Simulation       | Deloitte Australia          |
+| AIML Virtual Internship Program | Google / Kodacy             |
+
+> 📚 Continuously learning and applying new technologies through projects, internships, and hands-on engineering challenges.
+
 
 ---
 
@@ -934,3 +966,19 @@ https://portfolio-tau-one-78.vercel.app/
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A11CB,50:8E2DE2,100:4A00E0"/>
+
+
+## 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kartikm0111&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikm0111&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=kartikm0111&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
